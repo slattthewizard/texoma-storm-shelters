@@ -1,0 +1,89 @@
+{
+  "metaTitle": "Storm Shelter Cost Guide (2026) | Texoma Storm Shelters",
+  "metaDescription": "Explore 2026 storm shelter costs in North Texas. Find pricing for above-ground safe rooms ($4,500-$9,500), underground shelters ($5,200-$8,800), and how to get the Grayson County $3,000 rebate.",
+  "h1": "Storm Shelter Cost Guide (2026)",
+  "heroSub": "Comprehensive 2026 pricing breakdown for above-ground safe rooms, underground bunkers, and Grayson County rebates.",
+  "introHtml": "<p>Investing in a certified storm shelter is one of the most critical safety upgrades for any North Texas home. In 2026, residential storm shelter installations across Sherman, Denison, and Grayson County typically range between <strong>$4,500 and $9,500</strong>, with qualified homeowners eligible for up to <strong>$3,000 in matching rebates</strong> through county emergency management programs.</p><p>The total cost depends primarily on shelter type (above-ground steel vs. underground concrete vs. garage in-floor), capacity, foundation modifications, and accessibility features.</p>",
+  "costTable": [
+    {
+      "item": "4-6 Person Above-Ground Steel Safe Room",
+      "range": "$4,500 - $6,200",
+      "note": "Ideal for garage or interior closet anchor installation"
+    },
+    {
+      "item": "8-10 Person Above-Ground Steel Safe Room",
+      "range": "$6,500 - $8,200",
+      "note": "Spacious family unit with multi-point locking system"
+    },
+    {
+      "item": "12-16 Person Large Residential / Workshop Unit",
+      "range": "$8,500 - $11,500",
+      "note": "Custom dimensions with reinforced ventilation"
+    },
+    {
+      "item": "Underground Concrete Slope-Front Shelter",
+      "range": "$5,200 - $7,800",
+      "note": "Includes excavation, crane set, and backfill"
+    },
+    {
+      "item": "Underground Flat-Top Concrete Shelter",
+      "range": "$5,800 - $8,800",
+      "note": "Flush yard profile with steel easy-lift hatch"
+    },
+    {
+      "item": "Garage In-Floor Flush Mount Shelter",
+      "range": "$4,800 - $7,900",
+      "note": "Includes precision concrete saw cutting and haul-away"
+    },
+    {
+      "item": "Commercial & Community Safe Rooms (FEMA P-361)",
+      "range": "$15,000 - $75,000+",
+      "note": "Job-site, church, daycare, and subdivision units"
+    },
+    {
+      "item": "Grayson County Safe Room Program Rebate",
+      "range": "-50% (Up to $3,000)",
+      "note": "FEMA/TDEM matching grant for eligible homeowners"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Cost Factors for North Texas Storm Shelters",
+      "html": "<p>Several key variables determine the final turnkey price of your storm shelter installation:</p><ul><li><strong>Shelter Type & Materials:</strong> Modular 10-gauge and 1/4-inch steel safe rooms offer rapid indoor assembly, while pre-cast 6,000 PSI concrete underground units require heavy excavation equipment and crane placement.</li><li><strong>Slab Thickness & Anchoring:</strong> Above-ground safe rooms require a minimum 4-inch, 2,500+ PSI reinforced concrete slab. Post-installed Hilti anchor bolts must meet strict embedment depths.</li><li><strong>Excavation & High Water Table:</strong> Underground installations in clay soil require proper sealing, drainage bedding, and anti-buoyancy considerations.</li><li><strong>Accessibility Upgrades:</strong> Wider 36-inch doors, wheelchair ramps, and internal bench seating add modest custom fabrication costs.</li></ul>"
+    },
+    {
+      "heading": "How the Grayson County 50% Rebate Reduces Your Cost",
+      "html": "<p>The Grayson County Office of Emergency Management periodically administers the FEMA Hazard Mitigation Grant Program (HMGP) Residential Safe Room Rebate. Under this program, approved homeowners receive a 50% reimbursement (up to a maximum of $3,000) for installing an EF5-rated safe room.</p><p>Important requirements include obtaining pre-approval prior to installation, using a certified installer compliant with FEMA P-320 guidelines, pulling appropriate municipal permits in Sherman or Denison, and registering the finished shelter.</p>"
+    },
+    {
+      "heading": "Above-Ground vs. Underground: Cost and Practicality",
+      "html": "<p>While underground concrete bunkers have traditionally been popular in rural Texas, above-ground steel safe rooms have become the modern standard across North Texas residential subdivisions. Above-ground units provide instant access without navigating wet, steep stairs during severe weather, make evacuation effortless for elderly family members and pets, and completely eliminate flooding or spider/insect infiltration risks.</p>"
+    },
+    {
+      "heading": "Return on Investment & Home Equity Value",
+      "html": "<p>In tornado-prone North Texas markets, an engineered storm shelter is a major selling point that increases buyer appeal and resale equity. Appraisers frequently credit certified safe rooms at or near full replacement value, and some insurance providers offer policy discounts for certified storm mitigation features.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much does a typical 6-person storm shelter cost installed?",
+      "a": "A standard 6-person above-ground steel safe room averages $4,800 to $6,500 installed, including slab anchoring and local permit filing. With the Grayson County rebate, the net cost drops to $2,400 to $3,500."
+    },
+    {
+      "q": "Does the estimate include permits and installation?",
+      "a": "Yes. Our written quotes are 100% turnkey, covering site delivery, precision slab cutting or excavation, certified anchor hardware, municipal permit filing, and county registry documentation."
+    },
+    {
+      "q": "Can I install an above-ground safe room in an existing home?",
+      "a": "Yes. Our modular steel safe rooms are designed to fit through standard 30-inch doorways and assemble panel-by-panel inside existing garages, basements, or ground-floor interior rooms."
+    },
+    {
+      "q": "Are underground storm shelters more expensive than above-ground safe rooms?",
+      "a": "Turnkey costs are comparable. While pre-cast concrete units have slightly lower fabrication costs, the excavation, crane rental, and soil haul-away bring the total installed price to $5,200 - $8,800."
+    },
+    {
+      "q": "How can I apply for the Grayson County safe room rebate?",
+      "a": "Contact the Grayson County Office of Emergency Management or speak with our team. We provide the certified engineering documentation and quote specifications required for your grant application."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Texoma Storm Shelters — robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://texomastormshelters.com/sitemap-index.xml
