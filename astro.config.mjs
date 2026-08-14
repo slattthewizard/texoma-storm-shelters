@@ -2,6 +2,6 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://texomastormshelters.com',
+  site: 'https://texomatornadoshelters.com',
   integrations: [sitemap()],
 });
