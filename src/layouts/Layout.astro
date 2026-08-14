@@ -14,7 +14,7 @@ const {
   canonical,
   ogTitle,
   ogDescription,
-  ogImage = 'https://texomastormshelters.com/images/og-image.webp',
+  ogImage = 'https://texomatornadoshelters.com/images/og-image.webp',
 } = Astro.props;
 ---
 
@@ -23,7 +23,10 @@ const {
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="shortcut icon" href="/favicon.ico">
   <title>{title}</title>
   <meta name="google-site-verification" content="sR44dr-l-h1O2l01hwh_alJN1__8Xjz2Zl79Kf8kTjc" />
   <meta name="description" content={description} />
@@ -214,10 +217,10 @@ const {
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
       Grayson County 50% Safe Room Rebate Assistance Available
     </span>
-    <span style="color:rgba(255,255,255,0.92);font-size:12.5px;font-weight:600;" class="strip-extra">Serving Wenatchee &amp; Texoma & North Texas</span>
-    <a href="tel:+15093518404" style="color:#fff;font-size:12.5px;font-weight:800;text-decoration:none;display:flex;align-items:center;gap:6px;">
+    <span style="color:rgba(255,255,255,0.92);font-size:12.5px;font-weight:600;" class="strip-extra">Serving Sherman, Denison &amp; North Texas</span>
+    <a href="tel:+19038847210" style="color:#fff;font-size:12.5px;font-weight:800;text-decoration:none;display:flex;align-items:center;gap:6px;">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.5 12 19.79 19.79 0 0 1 1.1 3.18a2 2 0 0 1 2-2.18h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 8.27a16 16 0 0 0 7.82 7.82l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-      (509) 351-8404
+      (903) 884-7210
     </a>
   </div>
 </div>
@@ -230,10 +233,7 @@ const {
   <div style="max-width:1220px;margin:0 auto;padding:0 24px;display:flex;align-items:center;justify-content:space-between;height:76px;">
     <!-- Logo -->
     <a href="/" style="display:flex;align-items:center;gap:10px;text-decoration:none;" aria-label="Texoma Storm Shelters home">
-      <svg width="40" height="40" viewBox="0 0 36 36" fill="none" aria-hidden="true">
-        <circle cx="18" cy="18" r="17" fill="#1273A8"/>
-        <text x="18" y="24" text-anchor="middle" font-family="Nunito Sans, sans-serif" font-size="17" font-weight="800" fill="#fff">T</text>
-      </svg>
+      <img src="/images/logo.webp" alt="Texoma Storm Shelters Logo" width="44" height="44" style="object-fit:contain;border-radius:8px;flex-shrink:0;" />
       <span style="display:flex;flex-direction:column;line-height:1.05;">
         <span style="font-family:'Nunito Sans',sans-serif;font-weight:800;font-size:20px;color:#0A3D5C;letter-spacing:-0.01em;">Texoma Storm Shelters</span>
         <span style="font-size:10px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#2FA34D;">FEMA-Certified Safe Rooms &amp; Underground Shelters</span>
@@ -312,7 +312,7 @@ const {
         <p style="font-size:14px;color:rgba(255,255,255,0.85);margin:0;">Free written estimates for Wenatchee &amp; Texoma & North Texas.</p>
       </div>
       <div style="display:flex;gap:14px;flex-wrap:wrap;">
-        <a href="tel:+15093518404" class="btn-white-outline">Call (509) 351-8404</a>
+        <a href="tel:+19038847210" class="btn-white-outline">Call (903) 884-7210</a>
         <a href="/#contact" class="btn-green">Request Service</a>
       </div>
     </div>
@@ -323,7 +323,7 @@ const {
       <!-- Brand -->
       <div>
         <p style="font-family:'Nunito Sans',sans-serif;font-size:20px;font-weight:800;color:#fff;margin:0 0 12px;">Texoma Storm Shelters</p>
-        <p style="font-size:14px;line-height:1.8;max-width:300px;margin-bottom:20px;">Above-ground safe rooms, underground concrete shelters, and in-garage storm shelters across Grayson, Fannin & Cooke Counties., and water system service for Wenatchee and Texoma & North Texas. Licensed, insured, and on call 24/7 for no-water emergencies.</p>
+        <p style="font-size:14px;line-height:1.8;max-width:300px;margin-bottom:20px;">FEMA-certified above-ground safe rooms, underground concrete shelters, and in-garage storm shelters across Grayson, Fannin, and Cooke Counties. Engineered to withstand EF5 tornadoes.</p>
       </div>
       <!-- Services -->
       <div>
@@ -354,7 +354,7 @@ const {
         <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:12px;">
           <li style="display:flex;align-items:flex-start;gap:10px;">
             <svg width="15" height="15" style="flex-shrink:0;margin-top:2px;color:#7FC4E8;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.5 12 19.79 19.79 0 0 1 1.1 3.18a2 2 0 0 1 2-2.18h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 8.27a16 16 0 0 0 7.82 7.82l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-            <a href="tel:+15093518404" class="footer-link">(509) 351-8404</a>
+            <a href="tel:+19038847210" class="footer-link">(903) 884-7210</a>
           </li>
           <li style="display:flex;align-items:flex-start;gap:10px;">
             <svg width="15" height="15" style="flex-shrink:0;margin-top:2px;color:#7FC4E8;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><polyline points="2,4 12,13 22,4"/></svg>
@@ -362,7 +362,7 @@ const {
           </li>
           <li style="display:flex;align-items:flex-start;gap:10px;">
             <svg width="15" height="15" style="flex-shrink:0;margin-top:2px;color:#7FC4E8;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
-            <span style="font-size:14px;">Sherman, TX &amp; Texoma & North Texas</span>
+            <span style="font-size:14px;">Sherman, TX &amp; Grayson County</span>
           </li>
           <li style="display:flex;align-items:flex-start;gap:10px;">
             <svg width="15" height="15" style="flex-shrink:0;margin-top:2px;color:#7FC4E8;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
@@ -373,7 +373,7 @@ const {
     </div>
     <!-- Bottom bar -->
     <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:16px;padding:20px 0;font-size:13px;color:rgba(255,255,255,0.65);">
-      <span>© 2026 Texoma Storm Shelters. All rights reserved. Licensed &amp; Insured in Washington.</span>
+      <span>© 2026 Texoma Storm Shelters. All rights reserved. Licensed &amp; Insured in Texas.</span>
       <div style="display:flex;gap:20px;">
         <a href="/privacy/" class="footer-link">Privacy Policy</a>
         <a href="/terms/" class="footer-link">Terms of Service</a>
@@ -437,9 +437,9 @@ const {
 
 <div class="wwp-bar-mobile" id="wwpMobileBar" role="complementary" aria-label="Emergency call bar" aria-hidden="true">
   <div class="wwp-bar-label">Storm season approaching? Get a free estimate<span>24/7 Emergency · Fast Response</span></div>
-  <a href="tel:+15093518404" class="wwp-bar-cta" aria-label="Call Texoma Storm Shelters at (509) 351-8404">
+  <a href="tel:+19038847210" class="wwp-bar-cta" aria-label="Call Texoma Storm Shelters at (903) 884-7210">
     <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"/></svg>
-    (509) 351-8404
+    (903) 884-7210
   </a>
   <button class="wwp-bar-dismiss" id="wwpMobileBarDismiss" aria-label="Dismiss call bar" type="button">×</button>
 </div>
@@ -449,7 +449,7 @@ const {
     <p style="font-size:14px;font-weight:800;line-height:1.3;margin:0;">Wondering what repairs cost?</p>
     <button id="wwpDesktopSlideDismiss" aria-label="Dismiss cost guide offer" type="button" style="flex-shrink:0;display:flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:50%;border:1.5px solid #c8d8e3;background:transparent;color:#6a8799;font-size:14px;line-height:1;cursor:pointer;font-family:inherit;">×</button>
   </div>
-  <p style="font-size:12px;color:#4a6478;margin:0 0 14px;line-height:1.45;">See real price ranges for well pump repair &amp; replacement in Wenatchee — no form required.</p>
+  <p style="font-size:12px;color:#4a6478;margin:0 0 14px;line-height:1.45;">See real price ranges for safe rooms &amp; storm shelters across Texoma — no form required.</p>
   <a href="/storm-shelter-cost/" class="wwp-tracked" style="display:inline-flex;align-items:center;gap:5px;background:#0A3D5C;color:#fff;text-decoration:none;font-family:inherit;font-size:12px;font-weight:700;border-radius:999px;padding:8px 14px;white-space:nowrap;">View Cost Guide →</a>
 </div>
 
