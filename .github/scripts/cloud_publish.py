@@ -143,7 +143,7 @@ def extract_faq(body):
 
 
 def clean_body_links(body):
-    body = re.sub(r'https?://wenatcheewellpros\.com/', '/', body)
+    body = re.sub(r'https?://(www\.)?texoma(storm|tornado)shelters\.com/', '/', body)
     body = re.sub(r'(\(/[^)]*?)\.html\)', r'\1/)', body)
     return body
 
