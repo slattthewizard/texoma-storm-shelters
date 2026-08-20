@@ -131,7 +131,7 @@ Choosing a storm shelter is a decision rooted in safety and peace of mind. The p
 
 Texoma Storm Shelters is not just an installer; we are a life-safety expert for North Texas. We live and work in this community, and we are committed to providing our neighbors with the highest quality, most reliable storm shelters available. Our straightforward North Texas tone, practical advice, and transparent approach ensure you get exactly what you need to protect your family.
 
-Ready to protect your home or business with a certified storm shelter? Call Texoma Storm Shelters at (903) 884-7210 or email info@texomastormshelters.com for expert guidance and a transparent quote.
+Ready to protect your home or business with a certified storm shelter? Call Texoma Storm Shelters at (903) 884-7210 or email info@texomatornadoshelters.com for expert guidance and a transparent quote.
 
 ## Frequently Asked Questions
 

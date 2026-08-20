@@ -79,7 +79,7 @@ Outdoor bunker installations can also range from two to four days. This timeline
 Homeowners in North Texas should actively inquire about available rebates and financial assistance programs. Grayson County, for example, has historically offered storm shelter rebate programs to encourage residents to install safe rooms. These programs often provide a partial reimbursement for the cost of a FEMA P-320 compliant storm shelter, which can significantly reduce your out-of-pocket expense.
 We help guide our clients through the application process for these rebates, providing necessary documentation and ensuring your chosen shelter meets the program's requirements. These rebates are not always available, so it's important to check current program status with local authorities or contact us for the latest information. For specific details on local programs, refer to our guide on /blog/grayson-county-storm-shelter-rebate/.
 
-Texoma Storm Shelters offers free written estimates for all our services. We believe in transparent pricing and will clearly outline all costs involved, helping you understand your investment in life-saving protection. Don't hesitate to reach out to us at (903) 884-7210 or email info@texomastormshelters.com to discuss your options and get a detailed quote.
+Texoma Storm Shelters offers free written estimates for all our services. We believe in transparent pricing and will clearly outline all costs involved, helping you understand your investment in life-saving protection. Don't hesitate to reach out to us at (903) 884-7210 or email info@texomatornadoshelters.com to discuss your options and get a detailed quote.
 
 ## Local Case Examples in Texoma
 
@@ -119,7 +119,7 @@ Conversely, if you have ample yard space, prioritize maximum earth-shielded prot
 
 At Texoma Storm Shelters, we are committed to providing practical, straightforward guidance to help you make the best decision. Our expertise as a licensed and insured life-safety expert means you receive accurate, reliable information and a professional installation. We understand the unique weather challenges faced by residents in Grayson, Fannin, and Cooke counties.
 
-To explore your options further or to schedule a free, no-obligation written estimate, contact us today. You can call us directly at (903) 884-7210 or send an email to info@texomastormshelters.com. We are here to ensure your family has the ultimate protection when severe weather strikes. Don't wait until the next tornado warning; secure your peace of mind now. You can also explore more about what makes a shelter safe by reading our post on /blog/fema-p-320-storm-shelter-standards/.
+To explore your options further or to schedule a free, no-obligation written estimate, contact us today. You can call us directly at (903) 884-7210 or send an email to info@texomatornadoshelters.com. We are here to ensure your family has the ultimate protection when severe weather strikes. Don't wait until the next tornado warning; secure your peace of mind now. You can also explore more about what makes a shelter safe by reading our post on /blog/fema-p-320-storm-shelter-standards/.
 
 ## Frequently Asked Questions
 

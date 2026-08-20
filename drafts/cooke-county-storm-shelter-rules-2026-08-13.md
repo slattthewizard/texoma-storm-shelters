@@ -23,7 +23,7 @@ When considering a storm shelter in Cooke County, it's important to understand t
 
 Most notably, these local ordinances, if they exist, will point to the Federal Emergency Management Agency (FEMA) publications and the International Code Council (ICC) standards. These are the authoritative benchmarks for storm shelter and safe room construction nationwide. A reputable storm shelter installer in Cooke County will always build to these proven standards, regardless of specific local mandates, because they represent the minimum requirements for truly life-saving protection. This proactive approach ensures your shelter offers the highest level of safety.
 
-For a free, written estimate on a code-compliant storm shelter installation for your Cooke County home or business, contact Texoma Storm Shelters today at (903) 884-7210 or email info@texomastormshelters.com. We are licensed and insured, ready to answer your questions and guide you through the process.
+For a free, written estimate on a code-compliant storm shelter installation for your Cooke County home or business, contact Texoma Storm Shelters today at (903) 884-7210 or email info@texomatornadoshelters.com. We are licensed and insured, ready to answer your questions and guide you through the process.
 
 ## FEMA P-320 and ICC-500: The Gold Standard for Safe Room Construction
 

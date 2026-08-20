@@ -8,7 +8,7 @@ secondaryKeywords: "storm shelter installation, safe room cost, FEMA safe room t
 publishedDate: "2026-08-13"
 tag: "Cost & Pricing"
 subtitle: "North Texas faces a significant threat from severe weather, with tornadoes being a constant concern for residents across Grayson, Fannin, and Cooke counties."
-canonical: "https://texomastormshelters.com/blog/storm-shelter-cost-guide/"
+canonical: "https://texomatornadoshelters.com/blog/storm-shelter-cost-guide/"
 faq:
   - question: "How long does storm shelter installation take?"
     answer: "The installation timeline for a storm shelter in North Texas typically ranges from 1 to 3 days for most residential units. Above-ground safe rooms can often be installed within a single day. Underground and garage floor shelters require more extensive site preparation, including excavation and concrete work, which usually takes 2 to 3 days, depending on site conditions and weather."
@@ -34,7 +34,7 @@ The investment in a storm shelter is an investment in life safety, offering peac
 *   **Features and Customizations:** Basic shelters provide essential protection, but additional features can enhance comfort and functionality. These might include enhanced ventilation systems, specialized seating, battery-powered lighting, electrical outlets, or custom interior finishes.
 *   **Location within North Texas:** While overall costs are similar across Grayson, Fannin, and Cooke counties, minor variations might occur due to local permitting fees or specific site conditions in cities like Sherman, Denison, or Van Alstyne.
 
-Choosing the right shelter involves balancing your budget with your family's needs and specific property conditions. For a precise estimate tailored to your property in Sherman or anywhere in North Texas, contact us for a free written estimate at (903) 884-7210 or email info@texomastormshelters.com. We are licensed and insured, ensuring professional and reliable service.
+Choosing the right shelter involves balancing your budget with your family's needs and specific property conditions. For a precise estimate tailored to your property in Sherman or anywhere in North Texas, contact us for a free written estimate at (903) 884-7210 or email info@texomatornadoshelters.com. We are licensed and insured, ensuring professional and reliable service.
 
 ## Types of Storm Shelters and Their Investment
 

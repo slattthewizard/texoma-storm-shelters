@@ -9,7 +9,7 @@ secondary_keywords: "storm shelter installation, safe room cost, FEMA safe room 
 
 North Texas faces a significant threat from severe weather, with tornadoes capable of devastating communities and businesses in moments. When an EF-3, EF-4, or even an EF-5 tornado strikes, standard construction offers little protection. This is why understanding and implementing the ICC-500 standard for safe rooms is not just good practice, but a critical life-safety measure for commercial buildings, schools, and community centers across Sherman, Denison, and the wider Texoma region. A properly designed and installed **ICC 500 safe room** provides near-absolute protection against extreme winds and flying debris, offering peace of mind when the sirens blare.
 
-At Texoma Storm Shelters, we specialize in building and installing safe rooms that meet or exceed these rigorous standards. Our commitment is to ensure your facility has a secure refuge when it matters most. For a free written estimate on a compliant safe room for your property, call us at (903) 884-7210 or email info@texomastormshelters.com today.
+At Texoma Storm Shelters, we specialize in building and installing safe rooms that meet or exceed these rigorous standards. Our commitment is to ensure your facility has a secure refuge when it matters most. For a free written estimate on a compliant safe room for your property, call us at (903) 884-7210 or email info@texomatornadoshelters.com today.
 
 ## Understanding the ICC 500 Standard for Safe Rooms
 
@@ -164,7 +164,7 @@ Determine your budget early in the process. Remember to factor in not just the i
 
 The most critical decision is choosing a reputable and experienced storm shelter contractor. Texoma Storm Shelters has a proven track record of designing and installing ICC 500 compliant safe rooms throughout Sherman, Texoma, and North Texas. We are licensed and insured, with a deep understanding of the standards and local building codes. Our team ensures that every aspect of your safe room, from initial design to final inspection, meets the highest standards of safety and quality.
 
-When lives are on the line, there is no room for compromise. An ICC 500 compliant safe room provides the assurance that your employees, students, or community members will have a secure refuge during the most severe weather. For a free, no-obligation consultation and written estimate, contact Texoma Storm Shelters today at (903) 884-7210 or email info@texomastormshelters.com. We are your authoritative life-safety experts in North Texas.
+When lives are on the line, there is no room for compromise. An ICC 500 compliant safe room provides the assurance that your employees, students, or community members will have a secure refuge during the most severe weather. For a free, no-obligation consultation and written estimate, contact Texoma Storm Shelters today at (903) 884-7210 or email info@texomatornadoshelters.com. We are your authoritative life-safety experts in North Texas.
 
 ## Frequently Asked Questions
 

@@ -8,7 +8,7 @@ secondaryKeywords: "storm shelter installation, safe room cost, FEMA safe room t
 publishedDate: "2026-08-13"
 tag: "Engineering & Standards"
 subtitle: "When severe weather threatens North Texas, a reliable storm shelter can be the difference between safety and severe danger."
-canonical: "https://texomastormshelters.com/blog/fema-p-320-storm-shelter-standards/"
+canonical: "https://texomatornadoshelters.com/blog/fema-p-320-storm-shelter-standards/"
 faq:
   - question: "### What is the primary difference between FEMA P-320 and ICC 500?"
     answer: "FEMA P-320 serves as a detailed guidance document for homeowners and small businesses looking to build safe rooms, providing practical applications of safety principles. ICC 500 is the formal, consensus-based national standard for the design and construction of storm shelters, providing the minimum prescriptive requirements that engineers and manufacturers must adhere to. While FEMA P-320 references ICC 500, ICC 500 is the more technical and legally recognized building standard."
@@ -153,7 +153,7 @@ Even the best-designed shelter can fail if improperly installed. Our licensed an
 
 We believe in being straightforward and practical. We provide clear, written estimates, explain the compliance features of our shelters, and guide you through the process. We are your authoritative life-safety experts in North Texas, dedicated to equipping your home with the protection it deserves.
 
-When you choose Texoma Storm Shelters, you are choosing a partner committed to your safety. We understand the unique challenges of severe weather in our region and are here to provide reliable, FEMA P-320 compliant solutions. Don't wait for the next storm to hit; secure your peace of mind today. Contact us for a free estimate at info@texomastormshelters.com or call (903) 884-7210. Visit our website to learn more about our comprehensive services, including [underground storm shelters](/underground-storm-shelters/) and custom safe room solutions.
+When you choose Texoma Storm Shelters, you are choosing a partner committed to your safety. We understand the unique challenges of severe weather in our region and are here to provide reliable, FEMA P-320 compliant solutions. Don't wait for the next storm to hit; secure your peace of mind today. Contact us for a free estimate at info@texomatornadoshelters.com or call (903) 884-7210. Visit our website to learn more about our comprehensive services, including [underground storm shelters](/underground-storm-shelters/) and custom safe room solutions.
 
 ## Frequently Asked Questions
 

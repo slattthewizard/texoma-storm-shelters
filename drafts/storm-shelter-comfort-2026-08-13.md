@@ -17,7 +17,7 @@ True comfort in a storm shelter begins with the absolute certainty of safety. Th
 
 Accessibility is another cornerstone of comfort. A shelter must be easy to enter quickly, especially when seconds count. Whether you choose an /above-ground-safe-rooms/ model installed in a garage or an /underground-storm-shelters/ unit in your yard, consider the path to entry for all family members, including children, the elderly, or those with mobility challenges. Clear pathways and easy-to-operate doors are not just conveniences; they are critical safety features that reduce panic during an emergency.
 
-We ensure every installation is placed with careful consideration for your property layout and emergency egress. Our team prioritizes both structural integrity and user-friendly access. If you are considering a new storm shelter or safe room for your North Texas home, discuss your accessibility needs with us. We provide free written estimates and can help you select the ideal solution. Contact Texoma Storm Shelters today at (903) 884-7210 or email info@texomastormshelters.com to learn more about our options.
+We ensure every installation is placed with careful consideration for your property layout and emergency egress. Our team prioritizes both structural integrity and user-friendly access. If you are considering a new storm shelter or safe room for your North Texas home, discuss your accessibility needs with us. We provide free written estimates and can help you select the ideal solution. Contact Texoma Storm Shelters today at (903) 884-7210 or email info@texomatornadoshelters.com to learn more about our options.
 
 ## Essential Supplies for an Emergency Storm Shelter Stay
 

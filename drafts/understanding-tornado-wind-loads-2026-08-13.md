@@ -17,7 +17,7 @@ A tornado's destructive capability extends far beyond its visible funnel. The te
 
 These extreme wind speeds create dynamic pressures that push and pull on every surface of a structure. Uplift forces try to tear roofs off and pull foundations from the ground. Shear forces attempt to twist and slide walls and structural components apart. Without proper design and anchoring, even a strong house stands little chance against these combined elements. This is why a standard building code is insufficient for true tornado protection.
 
-In North Texas, where tornadoes are a recurring threat, preparing for these forces is not optional. It is a necessity for life safety. Our team is ready to provide a free written estimate for a storm shelter designed to protect against these severe conditions. Contact us today at (903) 884-7210 or email info@texomastormshelters.com to discuss your options for superior protection.
+In North Texas, where tornadoes are a recurring threat, preparing for these forces is not optional. It is a necessity for life safety. Our team is ready to provide a free written estimate for a storm shelter designed to protect against these severe conditions. Contact us today at (903) 884-7210 or email info@texomatornadoshelters.com to discuss your options for superior protection.
 
 ## Measuring Tornado Wind Loads: Beyond Simple Speed
 
@@ -106,7 +106,7 @@ Understanding **tornado wind loads** and their profound impact on storm shelter 
 
 In North Texas, where the threat of severe weather is a reality, investing in a certified storm shelter is a practical and reassuring step. It is about more than just having a safe place; it is about having a refuge that has been rigorously designed to stand firm against extreme wind pressures, uplift, shear forces, and the devastating impact of wind-borne debris.
 
-Texoma Storm Shelters is your trusted partner for this vital protection. We offer a range of solutions, from robust above-ground safe rooms to secure underground shelters, all installed by experienced professionals committed to your safety. Do not wait for the next storm to consider your options. Take control of your family's safety today. For a free, transparent written estimate and expert guidance, call us at (903) 884-7210 or email info@texomastormshelters.com. We are here to answer your questions and provide the peace of mind you deserve.
+Texoma Storm Shelters is your trusted partner for this vital protection. We offer a range of solutions, from robust above-ground safe rooms to secure underground shelters, all installed by experienced professionals committed to your safety. Do not wait for the next storm to consider your options. Take control of your family's safety today. For a free, transparent written estimate and expert guidance, call us at (903) 884-7210 or email info@texomatornadoshelters.com. We are here to answer your questions and provide the peace of mind you deserve.
 
 ## Frequently Asked Questions
 

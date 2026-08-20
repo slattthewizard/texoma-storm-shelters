@@ -23,7 +23,7 @@ The enclosed design of an underground storm shelter, while excellent for structu
 
 **4. Odor Management:** Confined spaces, especially those used during high-stress situations, can quickly develop unpleasant odors from sweat, body odor, and general use. Ventilation helps to dissipate these odors, contributing to a more bearable environment.
 
-Ensuring your shelter has a robust ventilation system is a non-negotiable aspect of its design and installation. It's an investment in the health and comfort of everyone seeking refuge. If you are considering an underground storm shelter or need to evaluate your existing setup, contact Texoma Storm Shelters for a free written estimate. Call us at (903) 884-7210 or email info@texomastormshelters.com to discuss your ventilation needs.
+Ensuring your shelter has a robust ventilation system is a non-negotiable aspect of its design and installation. It's an investment in the health and comfort of everyone seeking refuge. If you are considering an underground storm shelter or need to evaluate your existing setup, contact Texoma Storm Shelters for a free written estimate. Call us at (903) 884-7210 or email info@texomatornadoshelters.com to discuss your ventilation needs.
 
 ## Understanding FEMA P-320 and ICC 500 Ventilation Standards
 

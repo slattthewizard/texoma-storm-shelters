@@ -84,7 +84,7 @@ We are licensed and insured to perform installations across North Texas, includi
 
 Beyond installation, proper maintenance and occasional inspections ensure your shelter remains ready. Check the door hinges and locking mechanisms annually. Ensure ventilation openings are clear. If you have an underground shelter, verify that drainage systems are working and that no water is pooling. A well-maintained shelter will serve your family for decades. For more tips, check out our blog on [storm shelter maintenance tips](/blog/storm-shelter-maintenance-tips/).
 
-When severe weather threatens, having a certified, dependable storm shelter is a powerful reassurance. Don't wait for a direct hit to consider your family's safety. Texoma Storm Shelters provides an emergency line for severe weather and storm shelter installation. Call us at (903) 884-7210 or email info@texomastormshelters.com to discuss your storm shelter needs.
+When severe weather threatens, having a certified, dependable storm shelter is a powerful reassurance. Don't wait for a direct hit to consider your family's safety. Texoma Storm Shelters provides an emergency line for severe weather and storm shelter installation. Call us at (903) 884-7210 or email info@texomatornadoshelters.com to discuss your storm shelter needs.
 
 ## Frequently Asked Questions
 

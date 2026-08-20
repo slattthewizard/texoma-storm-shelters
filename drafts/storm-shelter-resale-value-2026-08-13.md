@@ -120,7 +120,7 @@ Whether you are in Sherman, Denison, Pottsboro, Whitesboro, Van Alstyne, Gunter,
 
 By choosing a quality, certified storm shelter, you are not just buying protection; you are making a smart financial decision that will pay dividends when it is time to sell your home. It positions your property as a safe haven, a highly desirable trait in North Texas's dynamic real estate market.
 
-Ready to explore how a storm shelter can enhance your home's safety and value? Contact Texoma Storm Shelters today at (903) 884-7210 for a free, no-obligation estimate. You can also email us at info@texomastormshelters.com.
+Ready to explore how a storm shelter can enhance your home's safety and value? Contact Texoma Storm Shelters today at (903) 884-7210 for a free, no-obligation estimate. You can also email us at info@texomatornadoshelters.com.
 
 ## Frequently Asked Questions
 

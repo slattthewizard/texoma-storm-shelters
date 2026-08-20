@@ -8,7 +8,7 @@ secondaryKeywords: "storm shelter installation, safe room cost, FEMA safe room t
 publishedDate: "2026-08-13"
 tag: "Cost & Pricing"
 subtitle: "When a severe weather threat looms over North Texas, the peace of mind knowing your family has immediate, certified protection is invaluable."
-canonical: "https://texomastormshelters.com/blog/storm-shelter-financing-options/"
+canonical: "https://texomatornadoshelters.com/blog/storm-shelter-financing-options/"
 faq:
   - question: "What are the typical costs associated with storm shelter installation in Texoma?"
     answer: "The cost of a storm shelter in the Texoma area can vary significantly based on the type, size, and installation complexity. For instance, a garage floor shelter might range from $4,500 to $7,000, while an underground concrete shelter could be $6,000 to $10,000 or more. Above-ground safe rooms, depending on steel thickness and interior features, can range from $5,000 to $15,000. These figures generally include materials and professional installation, ensuring compliance with safety standards. For a detailed breakdown, see our /blog/storm-shelter-cost-guide/."
@@ -29,7 +29,7 @@ North Texas, including Sherman, Denison, and the wider Texoma area, lies squarel
 
 The cost of a storm shelter varies depending on the type and size, whether it is an /above-ground-safe-rooms/ or an /underground-storm-shelters/. While some perceive this as a large expense, consider it an investment in your family's future and your property's resilience. Beyond the life-saving aspect, a storm shelter can add value to your home and potentially reduce insurance premiums. Thinking about the long-term benefits can help frame the financial decision.
 
-We believe that every family in our service area—Grayson, Fannin, and Cooke counties—deserves access to robust storm protection. If you are ready to discuss your options and receive a transparent, free written estimate, contact us today at (903) 884-7210 or email info@texomastormshelters.com. We are here to help you protect what matters most.
+We believe that every family in our service area—Grayson, Fannin, and Cooke counties—deserves access to robust storm protection. If you are ready to discuss your options and receive a transparent, free written estimate, contact us today at (903) 884-7210 or email info@texomatornadoshelters.com. We are here to help you protect what matters most.
 
 ## Exploring Storm Shelter Financing Options for Texoma Residents
 

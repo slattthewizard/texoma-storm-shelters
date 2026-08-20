@@ -101,7 +101,7 @@ You should also receive all relevant documentation. This includes your warranty 
 
 Lastly, ask about registering your storm shelter. In some areas, emergency services benefit from knowing the location of storm shelters to assist with post-storm recovery efforts. Texoma Storm Shelters can advise you on any local registration processes in Grayson, Fannin, or Cooke counties.
 
-Choosing a storm shelter is a significant decision for your family's safety. By asking these comprehensive questions, you equip yourself to select a reliable installer and a compliant, durable storm shelter. Texoma Storm Shelters is dedicated to providing straightforward answers and transparent service to our North Texas neighbors. We invite you to contact us for a free estimate and experience the difference of working with a life-safety expert. Reach out to us at (903) 884-7210 or email info@texomastormshelters.com to start your journey towards ultimate storm protection.
+Choosing a storm shelter is a significant decision for your family's safety. By asking these comprehensive questions, you equip yourself to select a reliable installer and a compliant, durable storm shelter. Texoma Storm Shelters is dedicated to providing straightforward answers and transparent service to our North Texas neighbors. We invite you to contact us for a free estimate and experience the difference of working with a life-safety expert. Reach out to us at (903) 884-7210 or email info@texomatornadoshelters.com to start your journey towards ultimate storm protection.
 
 ## Frequently Asked Questions
 

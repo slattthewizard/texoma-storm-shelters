@@ -17,7 +17,7 @@ Gunter, like much of Grayson County, experiences a significant number of severe 
 
 Historical data from the National Weather Service confirms that Grayson County has seen numerous tornado touchdowns, some causing extensive damage and posing serious threats to life. Relying solely on a home's interior closet or bathroom offers minimal protection against the crushing forces, flying debris, and extreme winds of a strong tornado. A purpose-built storm shelter, engineered to withstand these forces, becomes your family's ultimate refuge.
 
-Choosing to install a storm shelter is a proactive step towards ensuring your family's safety. It moves beyond hope and into concrete action, providing a designated, certified safe space. If you are considering a storm shelter for your Gunter home, do not hesitate to reach out. Call us at (903) 884-7210 or email info@texomastormshelters.com for a free consultation and estimate. We are here to help you make an informed decision about your family's safety.
+Choosing to install a storm shelter is a proactive step towards ensuring your family's safety. It moves beyond hope and into concrete action, providing a designated, certified safe space. If you are considering a storm shelter for your Gunter home, do not hesitate to reach out. Call us at (903) 884-7210 or email info@texomatornadoshelters.com for a free consultation and estimate. We are here to help you make an informed decision about your family's safety.
 
 ## Choosing the Right Storm Shelter for Your Gunter Home
 

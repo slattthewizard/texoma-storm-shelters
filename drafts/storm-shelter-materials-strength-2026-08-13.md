@@ -125,7 +125,7 @@ At Texoma Storm Shelters, we believe in empowering our neighbors in Sherman, Den
 
 When you choose Texoma Storm Shelters, you are choosing a partner committed to your family's protection. We carefully assess your property, discuss your specific needs, and recommend the optimal storm shelter materials and design, whether it is a robust steel safe room or a durable concrete underground shelter. Our installations strictly adhere to FEMA P-320 and ICC-500 guidelines, ensuring you receive a shelter built to the highest standards.
 
-We offer emergency line services for severe weather and storm shelter installation. Do not wait until the next storm warning to secure your safety. Call us today at (903) 884-7210 or email info@texomastormshelters.com to schedule your free written estimate. Let us help you protect what matters most with the right storm shelter materials.
+We offer emergency line services for severe weather and storm shelter installation. Do not wait until the next storm warning to secure your safety. Call us today at (903) 884-7210 or email info@texomatornadoshelters.com to schedule your free written estimate. Let us help you protect what matters most with the right storm shelter materials.
 
 ## Frequently Asked Questions
 

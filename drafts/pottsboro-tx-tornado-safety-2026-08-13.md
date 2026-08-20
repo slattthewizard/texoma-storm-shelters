@@ -25,7 +25,7 @@ A well-practiced tornado safety plan is your family's best defense. It should be
 
 Your plan should also include designated meeting points. Have one indoor meeting point, such as your storm shelter, and one outdoor meeting point a safe distance from your home in case your home is damaged. Ensure every family member knows both locations. Practice your plan regularly, at least twice a year, so that everyone knows exactly what to do when a warning is issued. This practice reduces panic and improves response time.
 
-Communication is another vital component. Establish a family contact person who lives out of state. If local phone lines are overwhelmed after a storm, it can be easier to make long-distance calls. Everyone in the family should know this contact's phone number. Additionally, discuss with neighbors how you can assist each other, especially if someone in your household has special needs. For a free written estimate on a storm shelter solution that fits your Pottsboro home, call us at (903) 884-7210 or email info@texomastormshelters.com.
+Communication is another vital component. Establish a family contact person who lives out of state. If local phone lines are overwhelmed after a storm, it can be easier to make long-distance calls. Everyone in the family should know this contact's phone number. Additionally, discuss with neighbors how you can assist each other, especially if someone in your household has special needs. For a free written estimate on a storm shelter solution that fits your Pottsboro home, call us at (903) 884-7210 or email info@texomatornadoshelters.com.
 
 ## Choosing the Right Storm Shelter for Pottsboro: Above-Ground vs. Underground
 
@@ -105,7 +105,7 @@ Texoma Storm Shelters is your local, reliable partner for enhancing tornado safe
 
 Our team has deep knowledge of FEMA P-320 and ICC 500 standards, ensuring every installation offers superior protection. We serve Sherman, Denison, Pottsboro, Whitesboro, Van Alstyne, Gunter, and the wider Texoma and North Texas region, understanding the specific needs of our local communities. Whether you are looking for an above-ground safe room, an underground shelter, or a garage floor solution, we have options to fit your needs and budget.
 
-Do not wait for the next storm season to begin. Proactive preparation is the key to safeguarding your family's lives. Contact us today for a free estimate and let us help you build a robust plan for tornado safety in Pottsboro, TX. Our emergency line is also available for urgent inquiries during severe weather events. Call us at (903) 884-7210 or send an email to info@texomastormshelters.com to start your journey toward enhanced storm preparedness.
+Do not wait for the next storm season to begin. Proactive preparation is the key to safeguarding your family's lives. Contact us today for a free estimate and let us help you build a robust plan for tornado safety in Pottsboro, TX. Our emergency line is also available for urgent inquiries during severe weather events. Call us at (903) 884-7210 or send an email to info@texomatornadoshelters.com to start your journey toward enhanced storm preparedness.
 
 ## Frequently Asked Questions
 

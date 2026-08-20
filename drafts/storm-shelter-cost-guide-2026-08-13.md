@@ -22,7 +22,7 @@ The investment in a storm shelter is an investment in life safety, offering peac
 *   **Features and Customizations:** Basic shelters provide essential protection, but additional features can enhance comfort and functionality. These might include enhanced ventilation systems, specialized seating, battery-powered lighting, electrical outlets, or custom interior finishes.
 *   **Location within North Texas:** While overall costs are similar across Grayson, Fannin, and Cooke counties, minor variations might occur due to local permitting fees or specific site conditions in cities like Sherman, Denison, or Van Alstyne.
 
-Choosing the right shelter involves balancing your budget with your family's needs and specific property conditions. For a precise estimate tailored to your property in Sherman or anywhere in North Texas, contact us for a free written estimate at (903) 884-7210 or email info@texomastormshelters.com. We are licensed and insured, ensuring professional and reliable service.
+Choosing the right shelter involves balancing your budget with your family's needs and specific property conditions. For a precise estimate tailored to your property in Sherman or anywhere in North Texas, contact us for a free written estimate at (903) 884-7210 or email info@texomatornadoshelters.com. We are licensed and insured, ensuring professional and reliable service.
 
 ## Types of Storm Shelters and Their Investment
 

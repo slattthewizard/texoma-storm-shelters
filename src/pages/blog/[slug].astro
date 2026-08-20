@@ -14,12 +14,12 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content } = await post.render();
 
-const canonical = post.data.canonical ?? `https://texomastormshelters.com/blog/${post.slug}/`;
+const canonical = post.data.canonical ?? `https://texomatornadoshelters.com/blog/${post.slug}/`;
 const heroImg = fs.existsSync(`public/images/blog/${post.slug}.webp`)
   ? `/images/blog/${post.slug}.webp`
   : null;
 const ogImage = post.data.ogImage
-  ?? (heroImg ? `https://texomastormshelters.com${heroImg}` : 'https://texomastormshelters.com/images/og-image.webp');
+  ?? (heroImg ? `https://texomatornadoshelters.com${heroImg}` : 'https://texomatornadoshelters.com/images/og-image.webp');
 const title = post.data.metaTitle ?? post.data.title;
 const navTitle = post.data.navTitle ?? post.data.title;
 const faq = post.data.faq ?? [];
@@ -28,8 +28,8 @@ const breadcrumbSchema = JSON.stringify({
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://texomastormshelters.com/" },
-    { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://texomastormshelters.com/blog/" },
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://texomatornadoshelters.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://texomatornadoshelters.com/blog/" },
     { "@type": "ListItem", "position": 3, "name": post.data.title, "item": canonical }
   ]
 });
@@ -44,12 +44,12 @@ const articleSchema = JSON.stringify({
   "mainEntityOfPage": { "@type": "WebPage", "@id": canonical },
   "datePublished": post.data.publishedDate,
   "dateModified": post.data.updatedDate ?? post.data.publishedDate,
-  "author": { "@type": "Organization", "name": "Texoma Storm Shelters", "url": "https://texomastormshelters.com/about/" },
+  "author": { "@type": "Organization", "name": "Texoma Storm Shelters", "url": "https://texomatornadoshelters.com/about/" },
   "publisher": {
     "@type": "Organization",
     "name": "Texoma Storm Shelters",
-    "url": "https://texomastormshelters.com",
-    "logo": { "@type": "ImageObject", "url": "https://texomastormshelters.com/images/og-image.webp" }
+    "url": "https://texomatornadoshelters.com",
+    "logo": { "@type": "ImageObject", "url": "https://texomatornadoshelters.com/images/og-image.webp" }
   }
 });
 

@@ -8,7 +8,7 @@ secondaryKeywords: "storm shelter installation, safe room cost, FEMA safe room t
 publishedDate: "2026-08-13"
 tag: "Rebates & Grants"
 subtitle: "Every year, North Texas faces the unpredictable fury of severe weather. Tornadoes, often forming with little warning, can devastate homes and endanger lives across Grayson, Fannin, and Cooke counties."
-canonical: "https://texomastormshelters.com/blog/grayson-county-storm-shelter-rebate/"
+canonical: "https://texomatornadoshelters.com/blog/grayson-county-storm-shelter-rebate/"
 faq:
   - question: "Who manages the Grayson County Safe Room Rebate Program?"
     answer: "The Grayson County Safe Room Rebate Program is typically managed by a designated county department, often in conjunction with the Office of Emergency Management. These programs frequently utilize federal grant funds, such as those from FEMA, to provide financial assistance to eligible residents. You can usually find current program details and contact information on the official Grayson County website at https://www.graysoncountytx.gov or by contacting their emergency services division."

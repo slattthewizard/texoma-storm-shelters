@@ -9,7 +9,7 @@ secondary_keywords: "storm shelter installation, safe room cost, FEMA safe room 
 
 In North Texas, severe weather can strike with little warning, turning a calm afternoon into a life-threatening event. When a tornado warning sounds, every second counts, and the last thing you want is to discover your storm shelter is too small for everyone to fit safely and comfortably. Selecting the correct **storm shelter size** isn't just about meeting minimum requirements; it's about ensuring genuine peace of mind and adequate protection for your loved ones during the most critical moments.
 
-At Texoma Storm Shelters, we understand the unique challenges and concerns facing families in Sherman, Grayson, Fannin, and Cooke counties. We're here to help you navigate the process of choosing a safe room that truly fits your family's specific needs, adhering to the highest life-safety standards. Don't leave your family's safety to chance. For a free written estimate on a custom-sized storm shelter designed for your home, contact us today at (903) 884-7210 or email info@texomastormshelters.com.
+At Texoma Storm Shelters, we understand the unique challenges and concerns facing families in Sherman, Grayson, Fannin, and Cooke counties. We're here to help you navigate the process of choosing a safe room that truly fits your family's specific needs, adhering to the highest life-safety standards. Don't leave your family's safety to chance. For a free written estimate on a custom-sized storm shelter designed for your home, contact us today at (903) 884-7210 or email info@texomatornadoshelters.com.
 
 ## Why Proper Storm Shelter Size Matters for Your Safety
 

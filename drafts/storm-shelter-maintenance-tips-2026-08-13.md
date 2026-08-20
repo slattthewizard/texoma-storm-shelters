@@ -15,7 +15,7 @@ At Texoma Storm Shelters, we understand the peace of mind a properly maintained 
 
 A storm shelter is a life-saving device, not a storage shed. Its primary purpose is to protect you and your loved ones from the devastating forces of a tornado. Regular **storm shelter maintenance** ensures that every component—from the door and hinges to the ventilation system and anchoring—remains fully functional and meets the demanding safety standards it was built to. Without consistent checks, small issues can escalate, potentially compromising the shelter's ability to withstand extreme wind loads and debris impact.
 
-Consider a scenario where a sudden EF-3 tornado warning is issued for Grayson County. You rush to your shelter, only to find the door jammed, the latch rusted, or the ventilation blocked. These are preventable failures that underscore the importance of proactive care. Your shelter is a critical defense, and its readiness directly correlates with your commitment to its upkeep. For a free written estimate on a new installation or to discuss maintenance considerations, contact Texoma Storm Shelters at (903) 884-7210 or email info@texomastormshelters.com.
+Consider a scenario where a sudden EF-3 tornado warning is issued for Grayson County. You rush to your shelter, only to find the door jammed, the latch rusted, or the ventilation blocked. These are preventable failures that underscore the importance of proactive care. Your shelter is a critical defense, and its readiness directly correlates with your commitment to its upkeep. For a free written estimate on a new installation or to discuss maintenance considerations, contact Texoma Storm Shelters at (903) 884-7210 or email info@texomatornadoshelters.com.
 
 ## Annual Inspection Checklist for Your Shelter
 
@@ -83,7 +83,7 @@ While many maintenance tasks are DIY-friendly, some situations warrant professio
 *   **Post-Storm Inspection:** After a significant severe weather event, even if your shelter wasn't directly impacted, a professional inspection can identify any hidden stresses or damage.
 *   **Annual Professional Check-up:** Even if you perform regular DIY checks, a professional inspection every few years can catch issues you might miss and ensure all systems are operating optimally.
 
-Our licensed and insured team can provide thorough inspections, conduct necessary repairs, and offer expert advice on maintaining your specific shelter type. We provide free written estimates for all services. If you have concerns about your existing shelter, do not hesitate to call our emergency line at (903) 884-7210 for immediate assistance during severe weather, or for routine inquiries, email info@texomastormshelters.com.
+Our licensed and insured team can provide thorough inspections, conduct necessary repairs, and offer expert advice on maintaining your specific shelter type. We provide free written estimates for all services. If you have concerns about your existing shelter, do not hesitate to call our emergency line at (903) 884-7210 for immediate assistance during severe weather, or for routine inquiries, email info@texomatornadoshelters.com.
 
 ## Preparing for Tornado Season: A Year-Round Commitment
 

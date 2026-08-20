@@ -48,7 +48,7 @@ Remember to rotate food and water supplies every six months to ensure freshness.
 
 Regular practice drills are not just for humans. Conduct mock drills where you gather your pets and essential supplies and move into your storm shelter. This helps your pets become accustomed to the routine and the shelter environment. It also allows you to identify any challenges or areas for improvement in your emergency plan. Make these drills calm and positive experiences.
 
-If you are still considering a storm shelter for your home in Texoma, don't wait for the next severe weather threat. Contact Texoma Storm Shelters today for a free written estimate. Call us at (903) 884-7210 or email info@texomastormshelters.com to discuss options like an [/above-ground-safe-rooms/](/above-ground-safe-rooms/) or [/underground-storm-shelters/]().
+If you are still considering a storm shelter for your home in Texoma, don't wait for the next severe weather threat. Contact Texoma Storm Shelters today for a free written estimate. Call us at (903) 884-7210 or email info@texomatornadoshelters.com to discuss options like an [/above-ground-safe-rooms/](/above-ground-safe-rooms/) or [/underground-storm-shelters/]().
 
 ## Keeping Pets Calm and Secure During a Storm in the Shelter
 

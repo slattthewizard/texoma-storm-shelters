@@ -126,7 +126,7 @@ Being prepared with these questions will help you gather the necessary informati
 
 Investing in a storm shelter is a significant decision for any homeowner in North Texas. While the primary motivation is always the safety and protection of loved ones, understanding the potential financial benefits, including a `storm shelter insurance discount` and available rebates, makes the investment even more compelling. By choosing a FEMA-compliant and professionally installed shelter from Texoma Storm Shelters, you're not just buying a structure; you're investing in peace of mind and potentially a smarter financial future.
 
-If you're ready to explore your options and get a free written estimate for a storm shelter that meets the highest safety standards, contact Texoma Storm Shelters today at (903) 884-7210 or email us at info@texomastormshelters.com. We are licensed and insured, serving Sherman, Denison, Pottsboro, Whitesboro, Van Alstyne, Gunter, and the surrounding communities in Grayson, Fannin, and Cooke counties.
+If you're ready to explore your options and get a free written estimate for a storm shelter that meets the highest safety standards, contact Texoma Storm Shelters today at (903) 884-7210 or email us at info@texomatornadoshelters.com. We are licensed and insured, serving Sherman, Denison, Pottsboro, Whitesboro, Van Alstyne, Gunter, and the surrounding communities in Grayson, Fannin, and Cooke counties.
 
 ## Frequently Asked Questions
 

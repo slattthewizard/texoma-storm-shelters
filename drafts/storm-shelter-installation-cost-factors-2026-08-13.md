@@ -76,7 +76,7 @@ Garage floor shelters require cutting into your existing concrete slab. The thic
 
 A homeowner in Denison, TX, recently opted for a 6'x8' garage floor shelter for their family of six. Their garage slab was a standard 4-inch reinforced concrete. The initial estimate for the shelter and installation was $6,500. During the site assessment, our team discovered a minor utility line running close to the preferred location, requiring a slight adjustment to the shelter's placement and careful cutting, adding about $300 to the total. The final cost, including professional installation and concrete repair, was $6,800. This example highlights how site specifics can slightly alter initial projections.
 
-Ready to understand the specific costs for your property? Don't wait for the next storm. Contact Texoma Storm Shelters today for a free, no-obligation written estimate. You can reach us at (903) 884-7210 or email info@texomastormshelters.com.
+Ready to understand the specific costs for your property? Don't wait for the next storm. Contact Texoma Storm Shelters today for a free, no-obligation written estimate. You can reach us at (903) 884-7210 or email info@texomatornadoshelters.com.
 
 ## Navigating Permits, Rebates, and Financing for Your Storm Shelter
 
@@ -162,7 +162,7 @@ Texoma Storm Shelters is dedicated to providing high-quality, FEMA-compliant sto
 
 Don't leave your family's safety to chance. Severe weather is an undeniable reality in North Texas. By understanding the factors that influence cost, exploring available rebates, and choosing a reputable installer, you can make an informed decision that secures your peace of mind.
 
-For a free written estimate tailored to your specific needs and property, contact us today. Our expert team is ready to discuss your options and help you take the essential step towards ultimate storm protection. Call us at (903) 884-7210 or email info@texomastormshelters.com. We are here to help you navigate your options and find the perfect storm shelter solution.
+For a free written estimate tailored to your specific needs and property, contact us today. Our expert team is ready to discuss your options and help you take the essential step towards ultimate storm protection. Call us at (903) 884-7210 or email info@texomatornadoshelters.com. We are here to help you navigate your options and find the perfect storm shelter solution.
 
 ## Frequently Asked Questions
 

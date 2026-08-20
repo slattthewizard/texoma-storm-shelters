@@ -151,7 +151,7 @@ Even after the immediate danger passes, the aftermath of a tornado can present n
 
 By integrating these elements into your overall **storm shelter preparation**, you create a robust safety strategy that addresses every phase of a severe weather event. Being prepared means being resilient, and in North Texas, that resilience is key.
 
-As tornado season approaches, don't leave your family's safety to chance. A well-maintained and properly stocked storm shelter is your ultimate protection. Texoma Storm Shelters is proud to be your authoritative life-safety expert in Sherman and across North Texas. We're dedicated to providing practical, reassuring guidance and transparent services. Whether you need a professional inspection, an upgrade, or are considering a new installation, our licensed and insured team is ready to assist. For a free written estimate or to discuss your storm shelter needs, call us at (903) 884-7210 or email info@texomastormshelters.com. Stay safe this tornado season.
+As tornado season approaches, don't leave your family's safety to chance. A well-maintained and properly stocked storm shelter is your ultimate protection. Texoma Storm Shelters is proud to be your authoritative life-safety expert in Sherman and across North Texas. We're dedicated to providing practical, reassuring guidance and transparent services. Whether you need a professional inspection, an upgrade, or are considering a new installation, our licensed and insured team is ready to assist. For a free written estimate or to discuss your storm shelter needs, call us at (903) 884-7210 or email info@texomatornadoshelters.com. Stay safe this tornado season.
 
 ---
 

@@ -19,7 +19,7 @@ These federal initiatives encourage the construction of safe rooms and storm she
 
 For homeowners in Sherman, Denison, and surrounding Texoma communities, understanding the pathway of these funds is crucial. State agencies, like the Texas Division of Emergency Management (TDEM), apply for these federal grants. They then often administer sub-grant programs, making the funds available to local governments, school districts, and sometimes, through specific programs, to individuals. It's a structured process designed to maximize impact and ensure proper use of taxpayer dollars for public safety.
 
-If you are considering a storm shelter for your home or business in North Texas, understanding these programs can help you plan your investment. For a free written estimate on a FEMA P-320 and ICC-500 compliant storm shelter or safe room, contact Texoma Storm Shelters today at (903) 884-7210 or email info@texomastormshelters.com.
+If you are considering a storm shelter for your home or business in North Texas, understanding these programs can help you plan your investment. For a free written estimate on a FEMA P-320 and ICC-500 compliant storm shelter or safe room, contact Texoma Storm Shelters today at (903) 884-7210 or email info@texomatornadoshelters.com.
 
 ## Key Federal Programs Offering Storm Shelter Grants in Texas
 
@@ -170,7 +170,7 @@ Beyond immediate safety, a high-quality storm shelter can also positively impact
 
 Ultimately, the decision to install a storm shelter is about protecting what matters most. Whether or not you receive a grant, choosing a shelter that meets federal standards is paramount. These standards aren't just bureaucratic hurdles; they represent decades of engineering and meteorological research designed to ensure maximum survivability. Texoma Storm Shelters is dedicated to providing these high-standard installations, ensuring your shelter performs when it's needed most.
 
-Don't wait for a disaster to consider your family's safety. Contact Texoma Storm Shelters for a free written estimate on a certified storm shelter or safe room. Call us at (903) 884-7210 or email info@texomastormshelters.com to discuss your options.
+Don't wait for a disaster to consider your family's safety. Contact Texoma Storm Shelters for a free written estimate on a certified storm shelter or safe room. Call us at (903) 884-7210 or email info@texomatornadoshelters.com to discuss your options.
 
 ## Partnering with Texoma Storm Shelters for Your Grant-Eligible Installation
 

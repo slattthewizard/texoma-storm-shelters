@@ -147,7 +147,7 @@ To further maximize your investment, consider the multi-purpose potential of you
 
 At Texoma Storm Shelters, we are dedicated to providing the highest level of life-safety expertise for your new home. From free written estimates and detailed planning to professional installation and guidance on rebates, we are your trusted partner. Our team is licensed, insured, and deeply familiar with the specific weather challenges and building requirements of Sherman, Texoma, and North Texas.
 
-Don't leave your family's safety to chance. Incorporate a certified storm shelter into your new home construction plans. Contact us today at (903) 884-7210 or email info@texomastormshelters.com to schedule your free consultation. We also offer an emergency line for severe weather and storm shelter installation needs, because your safety is our priority.
+Don't leave your family's safety to chance. Incorporate a certified storm shelter into your new home construction plans. Contact us today at (903) 884-7210 or email info@texomatornadoshelters.com to schedule your free consultation. We also offer an emergency line for severe weather and storm shelter installation needs, because your safety is our priority.
 
 ## Frequently Asked Questions
 

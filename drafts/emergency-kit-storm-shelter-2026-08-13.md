@@ -44,7 +44,7 @@ In a power outage, reliable light and communication are vital.
 *   **Power Banks:** Portable power banks for charging cell phones are important, but remember that cellular service may be disrupted. Keep them charged.
 *   **Whistle:** A simple whistle can be used to signal for help if you are trapped or need to alert rescuers to your location.
 
-Having these core items organized and ready means you can focus on getting your family safely into your shelter when a warning is issued. If you're considering enhancing your home's safety with a certified storm shelter, don't hesitate to reach out. For a free, no-obligation estimate on an underground or above-ground safe room, call Texoma Storm Shelters today at (903) 884-7210 or email us at info@texomastormshelters.com. We're here to provide peace of mind for your North Texas property.
+Having these core items organized and ready means you can focus on getting your family safely into your shelter when a warning is issued. If you're considering enhancing your home's safety with a certified storm shelter, don't hesitate to reach out. For a free, no-obligation estimate on an underground or above-ground safe room, call Texoma Storm Shelters today at (903) 884-7210 or email us at info@texomatornadoshelters.com. We're here to provide peace of mind for your North Texas property.
 
 ## Beyond the Basics: Tailoring Your Storm Shelter Emergency Kit Contents for North Texas
 
@@ -125,7 +125,7 @@ Another example is a homeowner in Denison who utilized the Grayson County storm 
 
 Even in smaller communities like Pottsboro, where rapid storm development is common, residents emphasize readiness. A family there, after installing their storm shelter for around $4,500, realized the importance of a complete kit. They packed a specific bag with a week's worth of medication for an elderly family member, knowing that pharmacies might be inaccessible after a major event. This personalized approach to their kit ensured critical needs were met.
 
-These examples underscore that a storm shelter is an investment in life safety, and a complete emergency kit is its indispensable partner. It's about having everything you need, precisely when you need it, without delay. If you're ready to secure your family's safety with a certified storm shelter, Texoma Storm Shelters offers free written estimates and expert installation throughout Grayson, Fannin, and Cooke counties. Contact us today at info@texomastormshelters.com to discuss your options.
+These examples underscore that a storm shelter is an investment in life safety, and a complete emergency kit is its indispensable partner. It's about having everything you need, precisely when you need it, without delay. If you're ready to secure your family's safety with a certified storm shelter, Texoma Storm Shelters offers free written estimates and expert installation throughout Grayson, Fannin, and Cooke counties. Contact us today at info@texomatornadoshelters.com to discuss your options.
 
 ## Maintaining and Updating Your Storm Shelter Emergency Kit
 

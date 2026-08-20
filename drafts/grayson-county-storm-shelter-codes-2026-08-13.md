@@ -96,7 +96,7 @@ We are licensed and insured, providing a layer of protection for you and your pr
 
 Our straightforward North Texas tone means you get practical, reassuring advice without any jargon. We explain what you need to know about different shelter types, their benefits, and how they meet or exceed national safety criteria. We also offer an emergency line for severe weather and storm shelter installation, demonstrating our commitment to your safety around the clock. Do not compromise on safety. Choose a partner who understands the local landscape, the federal guidelines, and your need for dependable protection.
 
-For a reliable, code-compliant storm shelter installation in Grayson County, contact Texoma Storm Shelters today. You can reach us directly at (903) 884-7210, or email us at info@texomastormshelters.com to schedule your free, no-obligation estimate. Let us help you secure your peace of mind with a safe room built to last.
+For a reliable, code-compliant storm shelter installation in Grayson County, contact Texoma Storm Shelters today. You can reach us directly at (903) 884-7210, or email us at info@texomatornadoshelters.com to schedule your free, no-obligation estimate. Let us help you secure your peace of mind with a safe room built to last.
 
 ## Frequently Asked Questions
 

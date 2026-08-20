@@ -25,7 +25,7 @@ Choosing the right storm shelter involves considering your property layout, fami
 
 We specialize in three primary types of residential storm shelters: above-ground safe rooms, underground storm shelters, and garage floor shelters. For commercial properties, we also design and install larger, custom solutions. Each type offers distinct advantages in terms of installation, accessibility, and integration with your property.
 
-If you're ready to explore your options and get a clear understanding of costs, contact us today. Call (903) 884-7210 or email info@texomastormshelters.com for a free written estimate. We're happy to discuss the best storm shelters for Denison, TX properties.
+If you're ready to explore your options and get a clear understanding of costs, contact us today. Call (903) 884-7210 or email info@texomatornadoshelters.com for a free written estimate. We're happy to discuss the best storm shelters for Denison, TX properties.
 
 ## Above-Ground Safe Rooms: A Smart Choice for Denison Homes
 

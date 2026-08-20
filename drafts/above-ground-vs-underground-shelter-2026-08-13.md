@@ -155,7 +155,7 @@ Just like any other essential home feature, your storm shelter requires occasion
 
 Choosing between an above-ground safe room and an underground storm shelter is a significant decision. It is an investment in your family's safety and peace of mind. Texoma Storm Shelters is here to help you navigate this choice with clear, practical, and authoritative guidance. We are licensed and insured, offering free written estimates and an emergency line for severe weather and storm shelter installation. Our expertise in the Texoma and North Texas region, including Grayson, Fannin, and Cooke counties, ensures we understand the specific needs of our community.
 
-Whether you prioritize accessibility, discreet placement, or specific cost considerations, we have a solution that meets FEMA P-320 and ICC-500 standards. Do not wait for the next severe storm to consider your options. Take proactive steps today to protect your loved ones. Contact Texoma Storm Shelters at (903) 884-7210 or email info@texomastormshelters.com to schedule your free consultation. Let us help you build a safer future.
+Whether you prioritize accessibility, discreet placement, or specific cost considerations, we have a solution that meets FEMA P-320 and ICC-500 standards. Do not wait for the next severe storm to consider your options. Take proactive steps today to protect your loved ones. Contact Texoma Storm Shelters at (903) 884-7210 or email info@texomatornadoshelters.com to schedule your free consultation. Let us help you build a safer future.
 
 ## Frequently Asked Questions
 

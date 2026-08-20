@@ -17,7 +17,7 @@ North Texas, including Sherman, Denison, and the wider Texoma area, lies squarel
 
 The cost of a storm shelter varies depending on the type and size, whether it is an /above-ground-safe-rooms/ or an /underground-storm-shelters/. While some perceive this as a large expense, consider it an investment in your family's future and your property's resilience. Beyond the life-saving aspect, a storm shelter can add value to your home and potentially reduce insurance premiums. Thinking about the long-term benefits can help frame the financial decision.
 
-We believe that every family in our service area—Grayson, Fannin, and Cooke counties—deserves access to robust storm protection. If you are ready to discuss your options and receive a transparent, free written estimate, contact us today at (903) 884-7210 or email info@texomastormshelters.com. We are here to help you protect what matters most.
+We believe that every family in our service area—Grayson, Fannin, and Cooke counties—deserves access to robust storm protection. If you are ready to discuss your options and receive a transparent, free written estimate, contact us today at (903) 884-7210 or email info@texomatornadoshelters.com. We are here to help you protect what matters most.
 
 ## Exploring Storm Shelter Financing Options for Texoma Residents
 

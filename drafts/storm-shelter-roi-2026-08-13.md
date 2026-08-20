@@ -81,7 +81,7 @@ Selecting the right storm shelter provider is as critical as choosing the shelte
 
 We are a licensed and insured company, giving you confidence in our professional standards and the quality of our work. Our team is trained in the latest installation techniques and adheres strictly to FEMA P-320 and ICC-500 standards for every project. This commitment to excellence means your storm shelter investment is secure and reliable. We understand the specific threats posed by North Texas weather and design our solutions accordingly.
 
-Beyond installation, we offer an emergency line for severe weather and storm shelter installation. This means you have a trusted partner ready to assist, especially when the weather turns dangerous. Our straightforward North Texas tone, practical advice, and reassuring approach make the process clear and stress-free. For a transparent discussion about your storm shelter needs, call us at (903) 884-7210 or email info@texomastormshelters.com for a free written estimate. Protect your home and loved ones with a certified storm shelter from Texoma Storm Shelters.
+Beyond installation, we offer an emergency line for severe weather and storm shelter installation. This means you have a trusted partner ready to assist, especially when the weather turns dangerous. Our straightforward North Texas tone, practical advice, and reassuring approach make the process clear and stress-free. For a transparent discussion about your storm shelter needs, call us at (903) 884-7210 or email info@texomatornadoshelters.com for a free written estimate. Protect your home and loved ones with a certified storm shelter from Texoma Storm Shelters.
 
 ## Frequently Asked Questions
 

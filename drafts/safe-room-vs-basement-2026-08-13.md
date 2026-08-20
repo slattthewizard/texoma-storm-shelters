@@ -35,7 +35,7 @@ There are several types of certified storm shelters, each offering robust protec
 
 Each type of certified storm shelter is engineered with specific features to resist extreme forces, including specialized doors, robust locking mechanisms, and ventilation systems that prevent internal pressure buildup. They are built to protect occupants from both direct wind forces and the deadly impact of wind-borne debris.
 
-For a free written estimate on a certified storm shelter for your North Texas home or business, please call us at (903) 884-7210 or email info@texomastormshelters.com. We are licensed and insured, providing peace of mind from the initial consultation to the final installation.
+For a free written estimate on a certified storm shelter for your North Texas home or business, please call us at (903) 884-7210 or email info@texomatornadoshelters.com. We are licensed and insured, providing peace of mind from the initial consultation to the final installation.
 
 ## Basement vs Safe Room: A Structural Comparison
 

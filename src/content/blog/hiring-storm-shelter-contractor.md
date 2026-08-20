@@ -8,7 +8,7 @@ secondaryKeywords: "storm shelter installation, safe room cost, FEMA safe room t
 publishedDate: "2026-08-13"
 tag: "Storm Protection"
 subtitle: "In North Texas, where severe thunderstorms and tornadoes can strike with little warning, a storm shelter isn't just a convenience—it's a critical investment in your family's safety."
-canonical: "https://texomastormshelters.com/blog/hiring-storm-shelter-contractor/"
+canonical: "https://texomatornadoshelters.com/blog/hiring-storm-shelter-contractor/"
 faq:
   - question: "### How long does a typical storm shelter installation take?"
     answer: "For residential storm shelters, installation typically takes 1 to 3 days, depending on the type of shelter and site conditions. Underground shelters may require more time for excavation and concrete work, while an above-ground safe room might be completed faster if the concrete slab is already prepared. Your installer should provide a clear timeline in your written estimate."
@@ -143,7 +143,7 @@ Choosing a storm shelter is a decision rooted in safety and peace of mind. The p
 
 Texoma Storm Shelters is not just an installer; we are a life-safety expert for North Texas. We live and work in this community, and we are committed to providing our neighbors with the highest quality, most reliable storm shelters available. Our straightforward North Texas tone, practical advice, and transparent approach ensure you get exactly what you need to protect your family.
 
-Ready to protect your home or business with a certified storm shelter? Call Texoma Storm Shelters at (903) 884-7210 or email info@texomastormshelters.com for expert guidance and a transparent quote.
+Ready to protect your home or business with a certified storm shelter? Call Texoma Storm Shelters at (903) 884-7210 or email info@texomatornadoshelters.com for expert guidance and a transparent quote.
 
 ## Frequently Asked Questions
 

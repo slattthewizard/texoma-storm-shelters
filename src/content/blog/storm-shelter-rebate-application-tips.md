@@ -8,7 +8,7 @@ secondaryKeywords: "storm shelter installation, safe room cost, FEMA safe room t
 publishedDate: "2026-08-13"
 tag: "Rebates & Grants"
 subtitle: "The threat of severe weather in North Texas is a constant reality, making storm shelters a vital investment for safety and peace of mind."
-canonical: "https://texomastormshelters.com/blog/storm-shelter-rebate-application-tips/"
+canonical: "https://texomatornadoshelters.com/blog/storm-shelter-rebate-application-tips/"
 faq:
   - question: "### What is the typical rebate amount for a storm shelter in Grayson County?"
     answer: "Rebate amounts vary significantly by program and funding availability, but they often range from $2,000 to $6,000, sometimes covering up to 50% of the total installation cost. Programs usually have a maximum cap, such as $3,000 or $4,500. It's crucial to check the specific program guidelines for the exact figures and any income-based adjustments."
@@ -21,7 +21,7 @@ faq:
 ---
 The threat of severe weather in North Texas is a constant reality, making storm shelters a vital investment for safety and peace of mind. Many Grayson County residents are eligible for financial assistance to offset the cost of installing a new storm shelter or safe room. Navigating the application process can seem daunting, but with the right guidance, you can significantly increase your chances of securing a rebate. This article provides essential **grayson county rebate application tips** to help you successfully apply for and receive funds for your home's protection.
 
-Texoma Storm Shelters understands the critical need for reliable protection against tornadoes and severe storms. We are committed to helping our neighbors in Sherman, Denison, and across the Texoma region prepare effectively. Our team provides free written estimates and comprehensive support, including guidance on rebate programs. For immediate assistance or to start planning your storm shelter installation, call us at (903) 884-7210 or email info@texomastormshelters.com.
+Texoma Storm Shelters understands the critical need for reliable protection against tornadoes and severe storms. We are committed to helping our neighbors in Sherman, Denison, and across the Texoma region prepare effectively. Our team provides free written estimates and comprehensive support, including guidance on rebate programs. For immediate assistance or to start planning your storm shelter installation, call us at (903) 884-7210 or email info@texomatornadoshelters.com.
 
 ## Understanding Grayson County Storm Shelter Rebates
 

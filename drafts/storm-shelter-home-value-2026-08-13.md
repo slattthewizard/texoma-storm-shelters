@@ -92,7 +92,7 @@ Choosing to install a storm shelter is a significant decision that offers multif
 
 The authoritative safety standards of FEMA P-320 and ICC-500 ensure that your investment is in a robust, life-saving structure. This commitment to quality is what sets Texoma Storm Shelters apart, providing installations that are not only effective but also add genuine value to your home. Whether you choose an above-ground safe room, an underground storm shelter, or a garage floor shelter, you are making a smart choice for your family and your property.
 
-Don't wait for the next storm season to consider your family's safety. Contact us today for a free written estimate and learn how a certified storm shelter can benefit your home. Our team is licensed and insured, ready to provide expert guidance tailored to your specific needs. Call us at (903) 884-7210 or email info@texomastormshelters.com. We also offer an emergency line for severe weather and storm shelter installation.
+Don't wait for the next storm season to consider your family's safety. Contact us today for a free written estimate and learn how a certified storm shelter can benefit your home. Our team is licensed and insured, ready to provide expert guidance tailored to your specific needs. Call us at (903) 884-7210 or email info@texomatornadoshelters.com. We also offer an emergency line for severe weather and storm shelter installation.
 
 For more information on different types of shelters, explore our service pages: [/above-ground-safe-rooms/] and [/underground-storm-shelters/]. You can also read about preparing for severe weather on our blog: [/blog/storm-shelter-prep/].
 
