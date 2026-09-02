@@ -106,7 +106,8 @@
   },
   {
     "draft": "drafts/power-outage-shelter-2026-08-13.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-09-02T18:29:14.960187Z"
   },
   {
     "draft": "drafts/prefab-vs-custom-storm-shelter-2026-08-13.md",
