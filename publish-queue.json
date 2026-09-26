@@ -226,7 +226,8 @@
   },
   {
     "draft": "drafts/storm-shelter-ventilation-2026-08-13.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-09-26T18:25:37.903724Z"
   },
   {
     "draft": "drafts/understanding-tornado-wind-loads-2026-08-13.md",
