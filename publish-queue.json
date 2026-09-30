@@ -246,7 +246,8 @@
   },
   {
     "draft": "drafts/whitesboro-tx-severe-weather-2026-08-13.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-09-30T19:53:51.547723Z"
   },
   {
     "draft": "drafts/storm-shelter-doors-2026-09-24.md",
