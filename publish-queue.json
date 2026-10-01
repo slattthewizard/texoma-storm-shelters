@@ -251,7 +251,8 @@
   },
   {
     "draft": "drafts/storm-shelter-doors-2026-09-24.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-01T20:13:03.168570Z"
   },
   {
     "draft": "drafts/tornado-watch-vs-warning-2026-09-24.md",
