@@ -306,7 +306,8 @@
   },
   {
     "draft": "drafts/storm-shelter-supplies-2026-09-24.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-12T22:26:01.371675Z"
   },
   {
     "draft": "drafts/tornado-bunker-cost-2026-09-24.md",
